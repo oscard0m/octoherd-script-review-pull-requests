@@ -1,5 +1,3 @@
-# 🚧 WORK IN PROGRESS. See [#1](https://github.com/oscard0m/octoherd-script-review-pull-requests/pull/1) | [Preview](https://github.com/oscard0m/octoherd-script-review-pull-requests/tree/initial-version)
-
 # octoherd-script-review-pull-requests
 
 > Review a bunch of pull requests based on parameters
